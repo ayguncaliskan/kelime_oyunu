@@ -1,0 +1,10 @@
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\bin\Release\kelime_oyunu.exe
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\bin\Release\kelime_oyunu.pdb
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.Form1.resources
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.Form2.resources
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.Form3.resources
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.Properties.Resources.resources
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.csproj.GenerateResource.cache
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.exe
+C:\Users\Aygun\Downloads\kelime_oyunu\kelime_oyunu\kelime_oyunu\obj\Release\kelime_oyunu.pdb
